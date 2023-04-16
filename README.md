@@ -1,5 +1,5 @@
 # medicineApotek
-Aplikasi untuk sistem penjualan di apotek
+Aplikasi untuk sistem penjualan di apotek dengan bahasa C
 
 **1. Menu Admin**
 - Login username 'admin'
